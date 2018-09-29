@@ -1,0 +1,5 @@
+cd into /src
+run `gcc -o cap2hccapx cap2hccapx.c` (gcc is a c language compiler. -o outputs into an exeuctable file. format is gcc -o [name of output file] [name of .c input file])
+run executable with `./cap2hccapx` 
+git cloned from `git@github.com:hashcat/hashcat-utils.git`
+
