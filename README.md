@@ -1,3 +1,5 @@
+ ![Hack the planet](https://media.giphy.com/media/l46C6sdSa5DVSJnLG/giphy.gif) 
+
 hashcat-utils
 ==============
 
